@@ -1,0 +1,14 @@
+train: /Users/yuliyanatasheva/PycharmProjects/compvision/datasets/images/train
+val: /Users/yuliyanatasheva/PycharmProjects/compvision/datasets/images/val
+
+nc: 8
+
+names:
+  - Ehrmann_HighProtein_Joghurt_Kirsche
+  - Ja_KafeeSahnee
+  - Jack_Daniels_with_Cola
+  - Kinder_Pingv
+  - Milch_Schnitte_Blaubeere
+  - Milch_Schnitte_Common
+  - Miree
+  - ReweBio_Waffeln
